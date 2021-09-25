@@ -1,0 +1,41 @@
+#cover{
+    background: url("images/covers.jpg") center;
+    background-size: cover;
+    padding-top: 77px;
+    padding-bottom: 77px;
+}
+.navbar-custom { 
+    background-color: black;
+} 
+.navbar-custom .nav-link, 
+.navbar-custom .navbar-text { 
+    color:white; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+} 
+#row2{
+    font-family :'Courier New', Courier, monospace
+}
+#botleft{
+    background: url("images/Cover1.jpg") center;
+    background-size: cover;
+    height: 400px;
+}
+#botright{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+body{
+    background-color: #111;
+}
+.footer-custom { 
+    
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+} 
+.navbar-toggler {
+    border-color: #111;
+} 
+.navbar-toggler-icon {
+    background-image: url("icon.png");
+}
